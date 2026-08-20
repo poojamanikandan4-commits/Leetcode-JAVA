@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-20T04:37:07.462Z",
+  "updatedAt": "2026-08-20T04:37:34.437Z",
   "problems": [
     {
       "frontendId": "141",
@@ -23,6 +23,26 @@
           "path": "0141-linked-list-cycle/0141-linked-list-cycle.java",
           "sha": "2af27c2765259d3a47bb552628d66741ba5d0571",
           "lastSyncedAt": "2026-08-20T04:37:07.462Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3803",
+      "title": "Count Residue Prefixes",
+      "slug": "count-residue-prefixes",
+      "problemName": "3803-count-residue-prefixes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-residue-prefixes/",
+      "folderPath": "3803-count-residue-prefixes/",
+      "readmePath": "3803-count-residue-prefixes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3803-count-residue-prefixes.java",
+          "path": "3803-count-residue-prefixes/3803-count-residue-prefixes.java",
+          "sha": "b7f91ff65764d93ca5eaa7553786fcf1a49be6f6",
+          "lastSyncedAt": "2026-08-20T04:37:34.437Z"
         }
       ]
     }
