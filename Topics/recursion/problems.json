@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion"
+  },
+  "updatedAt": "2026-08-20T04:36:53.227Z",
+  "problems": [
+    {
+      "frontendId": "203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "problemName": "0203-remove-linked-list-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+      "folderPath": "0203-remove-linked-list-elements/",
+      "readmePath": "0203-remove-linked-list-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0203-remove-linked-list-elements.java",
+          "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.java",
+          "sha": "958bbf349b2043af86a42200702757c084d9e8c5",
+          "lastSyncedAt": "2026-08-20T04:36:53.227Z"
+        }
+      ]
+    }
+  ]
+}
