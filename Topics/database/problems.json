@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-20T04:38:10.388Z",
+  "updatedAt": "2026-08-20T04:38:14.450Z",
   "problems": [
     {
       "frontendId": "178",
@@ -23,6 +23,26 @@
           "path": "0178-rank-scores/0178-rank-scores.sql",
           "sha": "f26e6b1ca65c2adc7f4d4670c7f1aeb32c771310",
           "lastSyncedAt": "2026-08-20T04:37:01.445Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "577",
+      "title": "Employee Bonus",
+      "slug": "employee-bonus",
+      "problemName": "0577-employee-bonus",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/employee-bonus/",
+      "folderPath": "0577-employee-bonus/",
+      "readmePath": "0577-employee-bonus/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0577-employee-bonus.sql",
+          "path": "0577-employee-bonus/0577-employee-bonus.sql",
+          "sha": "4d451ac57a99e0b1f1fe6a1d255f92cc27b58de7",
+          "lastSyncedAt": "2026-08-20T04:38:14.450Z"
         }
       ]
     },
