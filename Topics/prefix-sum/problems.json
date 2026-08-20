@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-20T04:37:56.938Z",
+  "updatedAt": "2026-08-20T04:38:04.183Z",
   "problems": [
     {
       "frontendId": "1991",
@@ -23,6 +23,26 @@
           "path": "1991-find-the-middle-index-in-array/1991-find-the-middle-index-in-array.java",
           "sha": "9185782c9731956b520b579a7ec1d050c3a6d821",
           "lastSyncedAt": "2026-08-20T04:37:56.938Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2574",
+      "title": "Left and Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "problemName": "2574-left-and-right-sum-differences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+      "folderPath": "2574-left-and-right-sum-differences/",
+      "readmePath": "2574-left-and-right-sum-differences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2574-left-and-right-sum-differences.java",
+          "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.java",
+          "sha": "4d13452cb849dd74303bccd4f2a36a899ccbeefb",
+          "lastSyncedAt": "2026-08-20T04:38:04.183Z"
         }
       ]
     }
