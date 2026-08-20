@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math"
+  },
+  "updatedAt": "2026-08-20T04:38:27.456Z",
+  "problems": [
+    {
+      "frontendId": "319",
+      "title": "Bulb Switcher",
+      "slug": "bulb-switcher",
+      "problemName": "0319-bulb-switcher",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bulb-switcher/",
+      "folderPath": "0319-bulb-switcher/",
+      "readmePath": "0319-bulb-switcher/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0319-bulb-switcher.java",
+          "path": "0319-bulb-switcher/0319-bulb-switcher.java",
+          "sha": "9a880c4d3a4458b7513521cf055b700cc8f119a3",
+          "lastSyncedAt": "2026-08-20T04:38:27.456Z"
+        }
+      ]
+    }
+  ]
+}
