@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-20T04:38:04.183Z",
+  "updatedAt": "2026-08-20T04:38:36.474Z",
   "problems": [
+    {
+      "frontendId": "303",
+      "title": "Range Sum Query - Immutable",
+      "slug": "range-sum-query-immutable",
+      "problemName": "0303-range-sum-query-immutable",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+      "folderPath": "0303-range-sum-query-immutable/",
+      "readmePath": "0303-range-sum-query-immutable/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0303-range-sum-query-immutable.java",
+          "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
+          "sha": "e1eca6ce3f4bae7ce0e6a3c8e8b4f1c941715375",
+          "lastSyncedAt": "2026-08-20T04:38:36.474Z"
+        }
+      ]
+    },
     {
       "frontendId": "1991",
       "title": "Find the Middle Index in Array",
