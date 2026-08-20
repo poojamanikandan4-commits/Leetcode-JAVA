@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-20T04:38:36.474Z",
+  "updatedAt": "2026-08-20T04:38:54.671Z",
   "problems": [
     {
       "frontendId": "303",
@@ -23,6 +23,26 @@
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
           "sha": "e1eca6ce3f4bae7ce0e6a3c8e8b4f1c941715375",
           "lastSyncedAt": "2026-08-20T04:38:36.474Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "416",
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "problemName": "0416-partition-equal-subset-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "folderPath": "0416-partition-equal-subset-sum/",
+      "readmePath": "0416-partition-equal-subset-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0416-partition-equal-subset-sum.java",
+          "path": "0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.java",
+          "sha": "2d38c771d0532565bdb2c749a9d2adf5aa3a37dd",
+          "lastSyncedAt": "2026-08-20T04:38:54.671Z"
         }
       ]
     },
