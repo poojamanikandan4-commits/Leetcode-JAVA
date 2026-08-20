@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-20T04:37:01.445Z",
+  "updatedAt": "2026-08-20T04:37:50.322Z",
   "problems": [
     {
       "frontendId": "178",
@@ -23,6 +23,26 @@
           "path": "0178-rank-scores/0178-rank-scores.sql",
           "sha": "f26e6b1ca65c2adc7f4d4670c7f1aeb32c771310",
           "lastSyncedAt": "2026-08-20T04:37:01.445Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1978",
+      "title": "Employees Whose Manager Left the Company",
+      "slug": "employees-whose-manager-left-the-company",
+      "problemName": "1978-employees-whose-manager-left-the-company",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/employees-whose-manager-left-the-company/",
+      "folderPath": "1978-employees-whose-manager-left-the-company/",
+      "readmePath": "1978-employees-whose-manager-left-the-company/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1978-employees-whose-manager-left-the-company.sql",
+          "path": "1978-employees-whose-manager-left-the-company/1978-employees-whose-manager-left-the-company.sql",
+          "sha": "de5337f051f161090db9afb873e9f1debbf38bfe",
+          "lastSyncedAt": "2026-08-20T04:37:50.322Z"
         }
       ]
     }
