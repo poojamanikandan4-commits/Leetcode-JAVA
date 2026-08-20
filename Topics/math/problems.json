@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-20T04:38:27.456Z",
+  "updatedAt": "2026-08-20T04:39:07.452Z",
   "problems": [
     {
       "frontendId": "319",
@@ -23,6 +23,26 @@
           "path": "0319-bulb-switcher/0319-bulb-switcher.java",
           "sha": "9a880c4d3a4458b7513521cf055b700cc8f119a3",
           "lastSyncedAt": "2026-08-20T04:38:27.456Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "371",
+      "title": "Sum of Two Integers",
+      "slug": "sum-of-two-integers",
+      "problemName": "0371-sum-of-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-two-integers/",
+      "folderPath": "0371-sum-of-two-integers/",
+      "readmePath": "0371-sum-of-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0371-sum-of-two-integers.java",
+          "path": "0371-sum-of-two-integers/0371-sum-of-two-integers.java",
+          "sha": "6102c27af0dbab489ab58ab1330bc8e2141e5738",
+          "lastSyncedAt": "2026-08-20T04:39:07.452Z"
         }
       ]
     }
